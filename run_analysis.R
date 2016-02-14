@@ -1,5 +1,5 @@
 # read data files
-setwd('~/R/UCI_HAR_Dataset')
+setwd('~/UCI_HAR_Dataset')
 test <- read.table("test/X_test.txt")
 train <- read.table("train/X_train.txt")
 
