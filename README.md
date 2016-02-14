@@ -1,12 +1,12 @@
 # Getting-and-Cleaning-Data-Project
 
-This project includes following files for the final course project of the Getting and Cleaning Data course:
+**This project includes following files for the final course project of the Getting and Cleaning Data course:**
 
 1. Human Activity Recognition Using Smartphones Dataset, converted to tidy data
 2. Script run_analysis.R which converts the original dataset to tidy data
 3. Code book describing the dataset
 
-The script uses the following steps to convert the data:
+**The script uses the following steps to convert the data:**
 
 1. Reads testing and training data files, as well as files with subjects and acticity codes.
 2. Converts activity codes to a factor with meaningful activity names as levels.
